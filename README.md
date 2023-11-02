@@ -1,6 +1,4 @@
-# Vue Template
-
-Template di partenza per progetti Vue con option API
+# Vue Install
 
 Per installare il progetto
 - npm install
